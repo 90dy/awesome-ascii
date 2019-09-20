@@ -38,7 +38,7 @@ PRs are welcome !
 * [MyMan](https://github.com/kragen/myman) - MyMan is an unofficial and unlicensed clone of the original Pac-Man
 * [Vitetris](https://github.com/vicgeralds/vitetris) - Vitetris is a terminal based tetris
 * [Nooodls-Vitetris](https://github.com/vicgeralds/vitetris) - Vitetris but better
-* [Asciicker](asciicker.com/x13) - Asciicker is an online 3D game demo rendering to ASCII text
+* [Asciicker](https://asciicker.com/x13) - Asciicker is an online 3D game demo rendering to ASCII text
 
 ## Softwares 💻
 
