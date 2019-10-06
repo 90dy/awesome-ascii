@@ -63,7 +63,7 @@ PRs are welcome !
 
 ## More ❤️
 
-* Everythings else that has been done for ASCII.*
+*Everythings else that has been done for ASCII.*
 * [Awesome ASCII Art](https://github.com/moul/awesome-ascii-art) - [@moul](https://github.com/moul) Awesome ASCII Art repository
 
 ## Resources 🤟
