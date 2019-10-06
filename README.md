@@ -53,6 +53,7 @@ PRs are welcome !
 * [FIGlet](https://github.com/lukesampson/figlet) - FIGlet permit to generate text banners in different typefaces
 * [Cowsay](https://github.com/schacon/cowsay) - Cowsay is a configurable talking cow
 * [Textdraw](http://web.uta4you.at/shop/td/) - Textdraw is a small utility that allows do drawwith copy/paste/move features
+* [Moondraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac
 
 ## Libraries 📚
 
@@ -62,7 +63,7 @@ PRs are welcome !
 
 ## More ❤️
 
-*Everythings that can be done in ASCII.*
+* Everythings else that has been done for ASCII.*
 * [Awesome ASCII Art](https://github.com/moul/awesome-ascii-art) - [@moul](https://github.com/moul) Awesome ASCII Art repository
 
 ## Resources 🤟
