@@ -49,7 +49,6 @@ PRs are welcome !
 * [Boxes](https://boxes.thomasjensen.com) - Draw ASCII art boxes around its input text
 * [Gif-for-cli](https://github.com/google/gif-for-cli) - Gif for cli convert media to animated ASCII art
 * [TOIlet](https://github.com/cacalabs/toilet) - TOIlet is a console-based tool that prints text using large characters
-* [Cowsay](https://github.com/schacon/cowsay) - 
 * [Taag](http://patorjk.com/software/taag/) - Taag is an Text to ascii art online generator
 * [FIGlet](https://github.com/lukesampson/figlet) - FIGlet permit to generate text banners in different typefaces
 * [Cowsay](https://github.com/schacon/cowsay) - Cowsay is a configurable talking cow
@@ -64,6 +63,7 @@ PRs are welcome !
 ## More ❤️
 
 *Everythings that can be done in ASCII.*
+* [Awesome ASCII Art](https://github.com/moul/awesome-ascii-art) - [@moul](https://github.com/moul) Awesome ASCII Art repository
 
 ## Resources 🤟
 
