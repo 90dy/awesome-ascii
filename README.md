@@ -23,7 +23,7 @@ PRs are welcome !
 * [Goblin-Hack](https://github.com/goblinhack/goblinhack) - Goblin Hack is a Think NetHack, but faster and with fewer keys
 * [Imperium](https://empiredirectory.net/) - Imperium is an Intergalactic exploration, warfare, and economics
 * [Intricacy](http://mbays.sdf.org/intricacy/) - Intricacy is a Game of competitive puzzle-design
-* [ASCIIpOrtal](https://github.com/cymonsgames/ASCIIpOrtal) - ASCIIpOrtal is portal, but in ASCII. And 2D. Sweet look-through mechanic, tho. 
+* [ASCIIpOrtal](https://github.com/cymonsgames/ASCIIpOrtal) - ASCIIpOrtal is portal, but in ASCII. And 2D. Sweet look-through mechanic, tho.
 * [DoomRL](http://doom.chaosforge.org/) - DoomRL is a Fast and furious coffee-break Roguelike game
 * [Brogue](https://sites.google.com/site/broguegame/) - Brogue is a Direct descendant of Rogue
 * [DwarfFortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a Extremely addictive rogue-like ASCII game
@@ -39,6 +39,7 @@ PRs are welcome !
 * [Vitetris](https://github.com/vicgeralds/vitetris) - Vitetris is a terminal based tetris
 * [Nooodls-Vitetris](https://github.com/vicgeralds/vitetris) - Vitetris but better
 * [Asciicker](https://asciicker.com/x13) - Asciicker is an online 3D game demo rendering to ASCII text
+* [TextModeDoom](https://doomwiki.org/wiki/Text_Mode_Doom) - Doom rendered in your terminal
 
 ## Softwares 💻
 
@@ -72,6 +73,6 @@ PRs are welcome !
 
 - https://www.ossblog.org/9-ascii-games-youll-want-play/
 - https://github.com/ligurio/awesome-ttygames
-- https://thenextweb.com/shareables/2019/09/19/asciicker-ascii-3d-game-text/ 
+- https://thenextweb.com/shareables/2019/09/19/asciicker-ascii-3d-game-text/
 - https://www.linuxlinks.com/asciigames/
 - https://www.linuxlinks.com/asciiarttools/
