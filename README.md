@@ -1,6 +1,6 @@
 # Awesome ASCII 🎉
 
-Best ASCII games, softwares, libraries, and more... just for the fun 👻
+Awesome ASCII games, softwares, libraries, and more... just for the fun 👻
 
 Inspired by [awesome-go](https://github.com/avelino/awesome-go)
 
