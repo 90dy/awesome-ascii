@@ -45,6 +45,7 @@ PRs are welcome !
 
 *Essentials ascii software, to make the world a better place.*
 
+* [aaa](https://github.com/asciimoth/aaa) - swiss Army knife for animated ascii art 
 * [Cadubi](https://github.com/statico/cadubi) - Cadubi allows you to draw text-based images
 * [Jp2a](https://github.com/cslarsen/jp2a) - Jp2a converts JPEG images to ASCII with given dimensions
 * [Boxes](https://boxes.thomasjensen.com) - Draw ASCII art boxes around its input text
@@ -61,11 +62,13 @@ PRs are welcome !
 *Make your code great again.*
 
 * [Art](https://github.com/sepandhaghighi/art) - Ascii art for python
+* [rs3a](https://github.com/asciimoth/rs3a), [py3a](https://github.com/asciimoth/py3a) and [go3a](https://github.com/asciimoth/go3a) - libs to work with [animated ascii art format](https://github.com/asciimoth/3a)
 
 ## More ❤️
 
 *Everythings else that has been done for ASCII.*
 * [Awesome ASCII Art](https://github.com/moul/awesome-ascii-art) - [@moul](https://github.com/moul) Awesome ASCII Art repository
+* [openascii](https://openascii.moth.contact/#3a_logo) - open source ASCII art archive
 
 ## Resources 🤟
 
