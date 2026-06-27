@@ -68,6 +68,7 @@ PRs are welcome !
 
 *Everythings else that has been done for ASCII.*
 * [Awesome ASCII Art](https://github.com/moul/awesome-ascii-art) - [@moul](https://github.com/moul) Awesome ASCII Art repository
+* [ASCII Art Archive](https://www.asciiart.eu/) Sports animations, games, dividers, patterns and more! 
 * [openascii](https://openascii.moth.contact/#3a_logo) - open source ASCII art archive
 
 ## Resources 🤟
