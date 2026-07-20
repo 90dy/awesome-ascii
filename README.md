@@ -56,6 +56,7 @@ PRs are welcome !
 * [Cowsay](https://github.com/schacon/cowsay) - Cowsay is a configurable talking cow
 * [Textdraw](http://web.uta4you.at/shop/td/) - Textdraw is a small utility that allows do drawwith copy/paste/move features
 * [Moondraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac
+* [Semaphore](https://github.com/can4hou6joeng4/Semaphore) - Semaphore turns any image into ASCII art entirely in your browser, with six charsets including braille
 
 ## Libraries 📚
 
