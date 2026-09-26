@@ -58,6 +58,8 @@ PRs are welcome !
 * [Moondraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac
 * [Semaphore](https://semaphore.bobochang.cn/) - Semaphore turns any image into ASCII art entirely in your browser, with six charsets including braille ([source](https://github.com/can4hou6joeng4/Semaphore))
 
+* [Image to ASCII](https://imagetoascii.art/) - Convert images locally in the browser, tune character sets and dithering, and export text, Markdown, PNG, SVG, HTML, or ANSI without an account.
+
 ## Libraries 📚
 
 *Make your code great again.*
