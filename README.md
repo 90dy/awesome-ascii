@@ -59,6 +59,8 @@ PRs are welcome !
 * [Semaphore](https://semaphore.bobochang.cn/) - Semaphore turns any image into ASCII art entirely in your browser, with six charsets including braille ([source](https://github.com/can4hou6joeng4/Semaphore))
 * [Readme Portrait](https://kimjusnu.github.io/readme_portrait/) - Readme Portrait turns a photo or your GitHub avatar into an animated colour ASCII portrait SVG for a profile README, entirely in your browser ([source](https://github.com/kimjusnu/readme_portrait))
 
+* [ToolKnit ASCII Text Banner](https://toolknit.com/tools/ascii-banner.html) - Browser-based FIGlet banner generator with font selection, width controls and TXT export.
+
 ## Libraries 📚
 
 *Make your code great again.*
