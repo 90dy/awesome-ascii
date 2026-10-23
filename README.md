@@ -46,6 +46,7 @@ PRs are welcome !
 *Essentials ascii software, to make the world a better place.*
 
 * [aaa](https://github.com/asciimoth/aaa) - swiss Army knife for animated ascii art 
+* [artgen.net ASCII art generator](https://artgen.net/en/tools/ascii-art-generator) - Web tool that converts a photo into ASCII art (free with sign-in)
 * [Cadubi](https://github.com/statico/cadubi) - Cadubi allows you to draw text-based images
 * [Jp2a](https://github.com/cslarsen/jp2a) - Jp2a converts JPEG images to ASCII with given dimensions
 * [Boxes](https://boxes.thomasjensen.com) - Draw ASCII art boxes around its input text
