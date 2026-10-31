@@ -58,6 +58,7 @@ PRs are welcome !
 * [Moondraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac
 * [Semaphore](https://semaphore.bobochang.cn/) - Semaphore turns any image into ASCII art entirely in your browser, with six charsets including braille ([source](https://github.com/can4hou6joeng4/Semaphore))
 * [Readme Portrait](https://kimjusnu.github.io/readme_portrait/) - Readme Portrait turns a photo or your GitHub avatar into an animated colour ASCII portrait SVG for a profile README, entirely in your browser ([source](https://github.com/kimjusnu/readme_portrait))
+* [TinyTools ASCII Art Converter](https://tomaserben.com/free-tools/image-to-ascii-art) - TinyTools converts JPG, PNG, GIF, and WebP photos to grayscale ASCII text in the browser with an adjustable width slider, no signup and no upload
 
 ## Libraries 📚
 
