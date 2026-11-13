@@ -40,6 +40,7 @@ PRs are welcome !
 * [Nooodls-Vitetris](https://github.com/vicgeralds/vitetris) - Vitetris but better
 * [Asciicker](https://asciicker.com/x13) - Asciicker is an online 3D game demo rendering to ASCII text
 * [TextModeDoom](https://doomwiki.org/wiki/Text_Mode_Doom) - Doom rendered in your terminal
+* [Asciiverse](https://asciiverse.sh) - Asciiverse is a free home for nearly 300 terminal games old and new, from Rogue and Zork to new releases, each with a preview you can play in the browser
 
 ## Softwares 💻
 
@@ -58,6 +59,7 @@ PRs are welcome !
 * [Moondraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac
 * [Semaphore](https://semaphore.bobochang.cn/) - Semaphore turns any image into ASCII art entirely in your browser, with six charsets including braille ([source](https://github.com/can4hou6joeng4/Semaphore))
 * [Readme Portrait](https://kimjusnu.github.io/readme_portrait/) - Readme Portrait turns a photo or your GitHub avatar into an animated colour ASCII portrait SVG for a profile README, entirely in your browser ([source](https://github.com/kimjusnu/readme_portrait))
+* [av](https://github.com/theasciiverse/av) - av browses, installs and launches the Asciiverse catalog of terminal games, demos and text adventures, right in your terminal
 
 ## Libraries 📚
 
